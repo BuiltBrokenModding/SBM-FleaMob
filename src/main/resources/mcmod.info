@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sbmfleamob",
+  "name": "SBM Flea Mob",
+  "description": "Adds a small flea mob that attacks you.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BuiltBrokenModding", "its_meow", "DarkGuardsman"],
+"credits": "BuiltBrokenModding/DarkGuardsman for idea and commission, its_meow for programming and art",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
